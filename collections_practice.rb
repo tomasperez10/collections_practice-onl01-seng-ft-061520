@@ -50,7 +50,9 @@ end
 
 def sum_array(array)
   
-  array.all? do | a |
+  sum = 0
+  
+  array.each do | a |
     
   
 end
