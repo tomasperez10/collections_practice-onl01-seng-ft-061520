@@ -37,7 +37,7 @@ def kesha_maker(array)
   
   i = 0
   
-  array.each do |
+  array.each do | a |
 
 
 
