@@ -63,8 +63,8 @@ def add_s(array)
   array.collect do | a |
     if array[1] == a
       a
-  else
-    a + "s"
+    else
+      a + "s"
   end
 end
 
