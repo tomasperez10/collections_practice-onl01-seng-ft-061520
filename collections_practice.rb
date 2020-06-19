@@ -64,6 +64,8 @@ def add_s(array)
     array.each do | a |
       a + "s"
     end
+  else
+    a
 
 end
 
