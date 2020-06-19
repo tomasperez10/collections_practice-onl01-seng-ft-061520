@@ -60,7 +60,7 @@ end
 
 def add_s(array)
   
-  array.collect
+  array.collect do | a |
     array.each do | a |
       a == a + "s"
     end
