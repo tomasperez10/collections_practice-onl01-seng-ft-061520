@@ -50,7 +50,7 @@ end
 
 def sum_array(array)
   
-  
+  array.all?
   
 end
 
