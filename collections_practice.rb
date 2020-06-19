@@ -44,6 +44,7 @@ def find_a(array)
   
   array.select do | a |
     a.include?("a")
+  end
   
 end
 
