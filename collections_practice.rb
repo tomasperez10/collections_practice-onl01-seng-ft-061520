@@ -29,7 +29,7 @@ end
 def reverse_array(array)
   
   array.sort do | a, b |
-    b <=> a[-1]
+    b[0] <=> a[-1]
   end
 end
 
