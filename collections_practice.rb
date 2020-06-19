@@ -38,6 +38,7 @@ def kesha_maker(array)
   i = 0
   
   array.each do | a |
+    a.length(3)
 
 
 
