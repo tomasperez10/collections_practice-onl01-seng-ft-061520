@@ -42,6 +42,8 @@ def kesha_maker(array)
   array.each do | a |
     collection.push(" #{a.length(3) == '$'} ")
     i += 1
+  end
+end
 
 
 
