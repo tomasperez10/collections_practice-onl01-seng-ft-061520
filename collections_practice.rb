@@ -61,6 +61,7 @@ end
 def add_s(array)
   
   if array[0] || array[2] || array[3]
+    
 
 end
 
