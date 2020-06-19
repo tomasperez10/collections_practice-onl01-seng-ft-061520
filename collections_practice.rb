@@ -61,7 +61,7 @@ end
 def add_s(array)
   
   array.collect do | a |
-    
+    if array[1] = 
       a == a + "s"
     end
   else
